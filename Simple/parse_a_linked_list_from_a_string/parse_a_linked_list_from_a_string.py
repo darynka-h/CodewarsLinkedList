@@ -20,6 +20,3 @@ def linked_list_from_string(node_string):
         return None
     return result[-1]
 
-# if __name__ == "__main__":
-#     import doctest
-#     doctest.testmod()
